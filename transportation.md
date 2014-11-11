@@ -15,4 +15,4 @@ Muni can refer to a bus or a train. Use the trains to quickly move around the ci
 If you're going to drive, you'll pay to park. $15-$40 a day downtown, $10-$18 a day at meters. All meters accept Pay By Phone, so get the app on your phone.
 If you're going to rent, signup for Zipcar before you come (takes a few days to get your membership card).
 
-Cabs are more expensive than Uber or Lyft, so use the latter two. Find a friend that has a referal code to get $20 off of each if you've never used them before.
+Cabs are more expensive than Uber or Lyft, so use the latter two. Uber will give you your first ride free if you [sign up here](https://www.uber.com/invite/v94nm).
